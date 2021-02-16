@@ -68,6 +68,8 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## lit-html
+Lit-html is the future rendetion of the traditional HTML, that allows write HTML code in JavaScript. It is constomizable by allowing effective Key repeats and more,expressive because it supports many kinds of values, DOM nodes,nested templetes etc. Lit-html also is extremely effective in creating and updating DOM.
+for more information visit: https://lit-html.polymer-project.org/ 
 
 
 ## HAXcms
